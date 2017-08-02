@@ -1,0 +1,3 @@
+切换到project视图，分别打开app下面的 build.gradle跟library下的build.gradle。
+将library 下的gradle 版本修改与 本机 版本的相符 , 本机版本在根目录下的build.gradle 查看 注意分清楚!
+build.gradle后面的数字
